@@ -154,7 +154,11 @@ I liked this approach because it worked "out of the box".  I coded it with reaso
 
 **Heat Maps**
 
-![alt text][image12]![alt text][image13]
+![alt text][image12]
+
+![alt text][image13]
+
+
 
 ![alt text][image14]
 
